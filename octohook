@@ -66,12 +66,12 @@ local library = {
         ['ping'] = 0;
     };
     images = {
-        ['gradientp90'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980760508128956476/unknown.png';
-        ['gradientp45'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980760416634408970/unknown.png';
-        ['colorhue'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980760297402949672/unknown.png';
-        ['colorsat1'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980759821022277673/unknown.png';
-        ['colorsat2'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980759906825154580/unknown.png';
-        ['colortrans'] = 'https://cdn.discordapp.com/attachments/980759802537988096/980760191656132668/unknown.png';
+        ['gradientp90'] = 'https://raw.githubusercontent.com/Eternal1ty/MainScripts/main/gradientp90.png';
+        ['gradientp45'] = 'https://raw.githubusercontent.com/Eternal1ty/MainScripts/main/gradientP45.png';
+        ['colorhue'] = 'https://raw.githubusercontent.com/Eternal1ty/MainScripts/main/hue.png';
+        ['colorsat1'] = 'https://t5.rbxcdn.com/b6ce2f465dbe0ca4bf88d45ac4be1362';
+        ['colorsat2'] = 'https://t4.rbxcdn.com/0c51aa9d7f2ede5c635c2f44f66be88f';
+        ['colortrans'] = 'https://raw.githubusercontent.com/Eternal1ty/MainScripts/main/transparency.png';
     };
     numberStrings = {['Zero'] = 0, ['One'] = 1, ['Two'] = 2, ['Three'] = 3, ['Four'] = 4, ['Five'] = 5, ['Six'] = 6, ['Seven'] = 7, ['Eight'] = 8, ['Nine'] = 9};
     signal = loadstring(game:HttpGet('https://raw.githubusercontent.com/Quenty/NevermoreEngine/23c4c96158a582b30f13d58ebb8b9f8139aca130/src/signal/src/Shared/Signal.lua'))();
