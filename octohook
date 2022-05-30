@@ -80,7 +80,7 @@ local library = {
     hasInit = false;
     cheatname = startupArgs.cheatname or 'crimskid';
     gamename = startupArgs.gamename or 'Da Hood Modded';
-    fileext = startupArgs.fileext or '.crimskid';
+    fileext = startupArgs.fileext or '.txt';
 }
 
 library.defaultTheme = {
