@@ -1,0 +1,9 @@
+--[[
+
+    local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteisveryepic/back-ups/finobe/moon%20god%20notif%20lib"))()
+    NotifyLib.prompt('Moon God - Q To Lock  - Revamped by Valox', 'Loading..', 5)
+    NotifyLib.prompt('Moon God - Revamped by Valox', 'best lock ong - valox', 5)
+    NotifyLib.prompt('Moon God - Revamped by Valox', 'yarn#0001, Valox#8980', 5)
+
+]]
+
